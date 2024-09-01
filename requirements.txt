@@ -1,0 +1,8 @@
+aioquic-mitmproxy
+mitmproxy-rs
+urwid-mitmproxy
+google-auth
+google-cloud-core
+google-auth
+h11
+h2
